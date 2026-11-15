@@ -1,0 +1,9 @@
+Experiment,Parameter,Mean Fitness,Best Fitness,Worst Fitness,Mean Runtime Seconds
+Population Size,20,62.8,63,62,0.08488571759999672
+Population Size,50,63.0,63,63,0.3522775347999982
+Population Size,80,63.0,63,63,0.5964146337999978
+Population Size,120,63.0,63,63,0.36716769660000637
+Mutation Rate,0.005,62.6,63,62,0.34717078439999793
+Mutation Rate,0.03,63.0,63,63,0.2443247250000013
+Mutation Rate,0.1,63.0,63,63,0.2538600580000036
+Mutation Rate,0.2,63.0,63,63,0.25836519699999483
