@@ -22,7 +22,7 @@ The Genetic Algorithm successfully reached the optimal solution for the given da
 
 ## Project Files
 
-- `knapsack_genetic_algorithm.py` – Python implementation
+- `knapsack_ga_pbl.py` – Python implementation
 - `knapsack_genetic_algorithm.ipynb` – Google Colab notebook
 - `fitness_vs_generation.png` – Fitness graph
 - `population_size_comparison.png` – Population size experiment
